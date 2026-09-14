@@ -1,5 +1,5 @@
 
-# EX 2E Pattern Matching using KMP Algorithm.
+# EX 2E Manacher's Algorithm
 ## DATE:
 ## AIM:
 To write a Java program for the following constraints.
